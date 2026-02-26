@@ -1,9 +1,0 @@
-README.md
-LICENSE
-tsconfig.json
-.vscode/
-coverage/
-node_modules/
-dist/**/*.map
-# Dynamic/runtime folder (exclude from npm publish)
-uws/
